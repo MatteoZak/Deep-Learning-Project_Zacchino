@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# OS
+.DS_Store
+
+# Training artifacts (logs, videos, report sources)
+runs/
+videos/
+template/
